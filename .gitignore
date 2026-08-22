@@ -1,0 +1,7 @@
+build/
+__pycache__/
+*.so
+*.o
+*.cpython*
+.DS_Store
+data/*.log
